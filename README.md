@@ -1,4 +1,4 @@
-### Hi, I’m Rizky <img src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" height="40px">
+### Hi, I’m Rizky <img src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">
 I'm a student from Universitas Pancasila majoring Informatics Engineering. I have experience building android application using Adobe Animate with Actionscript 3.0, also with front-end development using HTML, CSS, and Javascript.
 <br><br>
 📷 [Follow me on instagram](https://www.instagram.com/rzy_fdhlh "Instagram Account")  
