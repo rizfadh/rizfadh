@@ -1,5 +1,5 @@
 ### Hi, I’m Rizky <img src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">
-I'm a student from Universitas Pancasila majoring in Informatics Engineering. I have experience building Android applications using Android Studio and Kotlin, also with front-end development using Javascript and React.js.
+Backend Developer experienced in designing and managing microservices architectures for B2B and B2C agritech platforms. Proven track record in developing RESTful APIs, third-party API integrations, and database performance tuning using Express.js, Sequelize, and MariaDB. Adept at handling production challenges—including rate limiting, retry mechanisms, and system reliability—to guarantee high-uptime services
 <br><br>
 🖼️ [Check my portfolio](https://rizky.website "Portfolio Website")  
 📷 [Follow me on instagram](https://www.instagram.com/rzy_fdhlh "Instagram Account")  
