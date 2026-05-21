@@ -1,7 +1,7 @@
 ### Hi, I’m Rizky <img src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">
 Backend Developer experienced in designing and managing microservices architectures for B2B and B2C agritech platforms. Proven track record in developing RESTful APIs, third-party API integrations, and database performance tuning using Express.js, Sequelize, and MariaDB. Adept at handling production challenges—including rate limiting, retry mechanisms, and system reliability—to guarantee high-uptime services
 <br><br>
-🖼️ [Check my portfolio](https://rizky.website "Portfolio Website")  
+🖼️ [Check my portfolio](https://rizfadh.netlify.app/ "Portfolio Website")  
 📷 [Follow me on instagram](https://www.instagram.com/rzy_fdhlh "Instagram Account")  
 👦 [Connect with me on LinkedIn](https://www.linkedin.com/in/rizfadh "LinkedIn Account")  
 ### Languages and Tools
